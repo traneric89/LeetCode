@@ -47,4 +47,4 @@ const test2 = (input) => {
   return currentResultIndex;
 };
 
-test2("abbcccddddcccbbbbba");
+console.log(test2("abbcccddddcccbbbba"));
